@@ -1,0 +1,67 @@
+#pyramid {
+           line-height: 0;
+           font-size: 30px;
+       }
+
+.div {
+   border: 100px;
+
+}
+#wrapper {
+
+   padding: 1em;
+   border-radius: 400px;
+   border: smokey white;
+   margin: 100px;
+   border-top: solid;
+
+   border-left: solid;
+   border-right:solid;
+   border-radius: 10px;
+   border-color: grey;
+
+}
+
+#header {
+       background-color: #C3118E;
+       color: #F8F8FF;
+       padding: 1em;
+       margin: 5em;
+
+}
+
+#pyramid-area {
+             width: 60%;
+             background-color: #E3DBDB;
+             margin: auto;
+             border-radius: 1px;
+             border: 2px solid;
+             border-color: #C3118E;
+             float: center ;
+}
+
+#menu {
+     background-color: #989595;
+     padding: 1em;
+
+}
+
+.div {
+    float: left;
+}
+
+
+body {
+   font-family: "Courier New", monospace;
+   text-align: center;
+
+}
+}
+
+.invalid-field {
+   border: 1px solid red;
+}
+
+.error-message {
+   color: red;
+}
